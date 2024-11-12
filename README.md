@@ -26,7 +26,7 @@ folder
 ```
 
 Base statistics include:
-- number of Java files
+- number of Python files
 - number of classes
 - avg/max number of methods per class
 - avg/max method size (LoC)
